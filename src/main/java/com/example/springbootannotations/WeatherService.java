@@ -11,8 +11,9 @@ import java.util.stream.Collectors;
 @Service
 public class WeatherService {
 
-  private final WeatherRepository repository;
   private final WeatherMapper mapper;
+  private final WeatherRepository repository;
+
 
   public WeatherService(WeatherRepository repository, WeatherMapper mapper) {
     this.repository = repository;

@@ -14,8 +14,9 @@ import java.util.OptionalDouble;
 @EnableScheduling
 public class WeatherStatsTask {
 
-  private final WeatherService weatherService;
+
   private Logger logger = LoggerFactory.getLogger(WeatherStatsTask.class);
+  private final WeatherService weatherService;
 
   public WeatherStatsTask(WeatherService service) {
     this.weatherService = service;
