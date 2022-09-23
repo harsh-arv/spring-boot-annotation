@@ -2,7 +2,7 @@
 
 ## Overview
 
-I created this [Spring Boot](https://spring.io/projects/spring-boot) project to showcase some of the most important Spring Annotations (e.g. @Component). For more background information, checkout my blog post on [dev.to](https://dev.to/pmgysel/learn-spring-boot-by-annotations-1h0i).
+I created this [Spring Boot](https://spring.io/projects/spring-boot) project to showcase some of the most important Spring Annotations (e.g. @Component). For more background information.
 
 ## Functionality of app
 
